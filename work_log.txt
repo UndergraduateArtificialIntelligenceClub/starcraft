@@ -1,6 +1,8 @@
 TODO:
 
 - make virtual env
+- install libraries
 - make requirements file
 - investigate new pysc2 features
 - get old skjb code working
+- 
