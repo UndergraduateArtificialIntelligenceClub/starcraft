@@ -5,4 +5,4 @@ TODO:
 - make requirements file
 - investigate new pysc2 features
 - get old skjb code working
-- 
+- make variant, maybe using protoss?
